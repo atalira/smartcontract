@@ -14,7 +14,7 @@ Defi, NFT, Web3 protocol with actualuse cases and utility
 ![rsz_14](https://atalira.net/token/64x64.png)\
 🦴 Name : ATA Lira\
 🦴 Symbol : ATALIRA\
-🦴 Supply: 100,000,000 ATA LIRA\
+🦴 Supply: 100,000,000 ATALIRA\
 🦴 10 % Total Tax Fee (4% Marketing, 5% Auto LP Generation Mechanism, 1% Auto Burn)\
 🦴 Tokenomic:\
 🦴 24 % Private Investor\
